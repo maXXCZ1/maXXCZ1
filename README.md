@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @maXXCZ1
-- ✔️ Currently in process of being fulltime App developer in future.
-- 👀 I’m interested in creating Android (cross platform) mobile applications
-- 🌱 I’m currently learning React Native, used to work with Kotlin aswell. 
+- 👋 Hi, I’m Martin.
+- ✔️ Fulltime react-native developer.
+- 👀 Looking for help and trying to help.
+- 🌱 Learning React.js to produce web in future.
 - 📫 How to reach me? martin.cermak1337@gmail.com
 
